@@ -1,0 +1,14 @@
+kleuren om te gebruiken:
+algemene tekst: wit voor lange stukken tekst --> #fff & zwart voor koppen of andere dingen die eruit moeten springen --> #000
+achtergrond: ocean blue --> #6E7E8B
+navigatiebar: donkermarine blauw of antraciet --> #1C252E of #252D35
+navigatiebartekst: wit of wittinten --> #F4F5F7
+
+
+informatie blok? --> over Leander, wat hij wil gaan doen & wie hij is --> aan Leander vragen
+voorbeeld video --> krijg ik voor het weekend nog van Leander
+contactformulier --> linken aan mail - ...@leandervideos.nl
+aparte pagina voor tarieven? --> even navragen bij Leander
+
+
+alle bovenstaande dingen verwerken op het ontwerp. daarna even met Leander gaan zitten en kijken wat hij ervan vindt. zodra hij het goed vindt gaan we programmeren
