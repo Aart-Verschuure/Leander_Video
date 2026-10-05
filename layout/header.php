@@ -7,7 +7,7 @@
     <title><?= $title ?? "Leander_Video's" ?></title>
 </head>
 <body>
-    <header>`
+    <header>
         <img src="./images/logo.png" alt="Leander_Video Logo" id="logo">
         <a class="a" href="homepage" id="back_home">Thuispagina</a>
         <a class="a" href="voorbeelden" id="overview">Voorbeelden</a>
